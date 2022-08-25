@@ -35,7 +35,7 @@ body {
 }
 
 .header__avatar:hover {
-  border: 5px solid var(--linktext);
+  border: 5px solid var(--text);
   transform: scale(1.1);
 }
 
